@@ -40,3 +40,29 @@ Apart from natural beauty, one can enjoy various **water sports and adventure ac
 >“If we knew what it was we were doing, it would not be called research, would it?” – *Albert Einstein*<br>
 >“The scientist only imposes two things, namely truth and sincerity, imposes them upon himself and upon other scientists.” – *Erwin Schrödinger*
 
+---
+### Code Fencing with jquery 
+
+>Calculate distance between Mouse and the Edges of a DOM element? <https://stackoverflow.com/questions/50906224/calculate-distance-between-mouse-and-the-edges-of-a-dom-element>
+
+```
+(function() {
+    
+    var mX, mY, distance,
+        $distance = $('#distance span'),
+        $element  = $('#element');
+
+    function calculateDistance(elem, mouseX, mouseY) {
+        return Math.floor(Math.sqrt(Math.pow(mouseX - (elem.offset().left+(elem.width()/2)), 2) + Math.pow(mouseY - (elem.offset().top+(elem.height()/2)), 2)));
+    }
+
+    $(document).mousemove(function(e) {  
+        mX = e.pageX;
+        mY = e.pageY;
+        distance = calculateDistance($element, mX, mY);
+        $distance.text(distance);         
+    });
+
+})(); 
+```
+**Source:**<https://css-tricks.com/snippets/jquery/calculate-distance-between-mouse-and-element/>
