@@ -25,7 +25,7 @@ Apart from natural beauty, one can enjoy various **water sports and adventure ac
  [My Status](MyStats.md)
   
 ---
-### Sports one moust play
+### Sports one must play
 
 |Name of the Sport |Reason | Time_Spent |
 | :--- |:--- |:--- |
