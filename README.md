@@ -14,4 +14,10 @@ Apart from natural beauty, one can enjoy various **water sports and adventure ac
 4. Enjoy Sunset Cruise 
 5. Para Sailing in maldives gives the best experience ever.
 
- 
+ ### Dishes you must try at Maldives
+
+ * Garudhiya - Fish Soup
+ * Mas Huni - Shredded Smoked Tuna
+ * Masroshi - Tuna Stuffed Chapati
+ * Maldivian Live Lobster
+ * Biyadhoo Special & Lucky And AI
