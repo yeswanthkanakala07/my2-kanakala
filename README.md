@@ -21,3 +21,6 @@ Apart from natural beauty, one can enjoy various **water sports and adventure ac
  * Masroshi - Tuna Stuffed Chapati
  * Maldivian Live Lobster
  * Biyadhoo Special & Lucky And AI
+
+ [My Status](C:\Users\S567546\Documents\webapps-repos\my2-kanakala\MyStats.md)
+ 
