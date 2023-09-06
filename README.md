@@ -23,3 +23,19 @@ Apart from natural beauty, one can enjoy various **water sports and adventure ac
  * Biyadhoo Special & Lucky And AI
 
  [My Status](MyStats.md)
+  
+---
+### Sports one moust play
+
+|Name of the Sport |Reason | Time_Spent |
+| :--- |:--- |:--- |
+| Badminton |This game is a workout for the entire body and increases focus.|28hrs per week  |
+| Cricket |This game allows to gain team co-ordination and mental and physical strength|15hrs per week |
+| Basket Ball |Increase Strength and Endurance and hand eye co-ordination |14hrs per week  |
+| Boxing |Helps to increase Self Defense techniques, mobility and physical Strength |10hrs per week  |
+
+
+
+
+
+
