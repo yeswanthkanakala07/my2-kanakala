@@ -37,6 +37,6 @@ Apart from natural beauty, one can enjoy various **water sports and adventure ac
 ---
 ### Pithy Quotes 
 
->“If we knew what it was we were doing, it would not be called research, would it?” – *Albert Einstein*
+>“If we knew what it was we were doing, it would not be called research, would it?” – *Albert Einstein*<br>
 >“The scientist only imposes two things, namely truth and sincerity, imposes them upon himself and upon other scientists.” – *Erwin Schrödinger*
 
