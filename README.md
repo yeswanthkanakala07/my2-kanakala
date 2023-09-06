@@ -34,8 +34,9 @@ Apart from natural beauty, one can enjoy various **water sports and adventure ac
 | Basket Ball |Increase Strength and Endurance and hand eye co-ordination |14hrs per week  |
 | Boxing |Helps to increase Self Defense techniques, mobility and physical Strength |10hrs per week  |
 
+---
+### Pithy Quotes 
 
-
-
-
+>“If we knew what it was we were doing, it would not be called research, would it?” – *Albert Einstein*
+>“The scientist only imposes two things, namely truth and sincerity, imposes them upon himself and upon other scientists.” – *Erwin Schrödinger*
 
