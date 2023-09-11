@@ -22,7 +22,7 @@ Apart from natural beauty, one can enjoy various **water sports and adventure ac
  * Maldivian Live Lobster
  * Biyadhoo Special & Lucky And AI
 
- [My Status](my2-kanakala/MyStats.md)
+ [My Status](C:\Users\S567546\Documents\webapps-repos\my2-kanakala\MyStats.md)
   
 ---
 ### Sports one must play
